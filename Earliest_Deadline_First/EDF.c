@@ -16,8 +16,6 @@ int lcm(int a, int b) {
 }
 
 int main() {
-    printf("Name : Urchintla Muhammed Muzammil Shaik\n");
-    printf("USN : 1BF24CS324\n\n");
     int n;
     printf("Enter the number of processes: ");
     scanf("%d", &n);
